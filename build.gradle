@@ -1,0 +1,17 @@
+group 'RestApiYan'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'org.testng', name: 'testng', version: '6.11'
+    testCompile 'io.rest-assured:rest-assured:3.0.3'
+    testCompile 'io.rest-assured:json-path:3.0.3'
+
+}

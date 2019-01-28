@@ -1,0 +1,8 @@
+https://developer.atlassian.com/docs/
+
+#here is all our api docs
+https://docs.atlassian.com/software/jira/docs/api/REST/7.6.1/
+
+https://blog.valiantys.com/en/jira-en/jira-rest-api-done
+
+https://github.com/anshulc55/Rest_Assured_Code/tree/master/SampleRestAssured

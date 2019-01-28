@@ -1,0 +1,7 @@
+{
+  "body": "This is my Update  Comment.",
+  "visibility": {
+    "type": "role",
+    "value": "Administrators"
+  }
+}
